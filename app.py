@@ -1,4 +1,4 @@
-``python
+Python
 import os
 import random
 import requests
